@@ -1,0 +1,7 @@
+KNN: 0, []
+Decision Tree: 0, []
+Random Forest: 0, []
+KNN and Decision Tree: 1, ['MaritalStatus']
+KNN and Random Forest: 0, []
+Decision Tree and Random Forest: 0, []
+KNN and Decision Tree and Random Forest: 30, ['Age', 'Attrition', 'BusinessTravel', 'DailyRate', 'Department', 'DistanceFromHome', 'Education', 'EducationField', 'EmployeeNumber', 'EnvironmentSatisfaction', 'Gender', 'HourlyRate', 'JobInvolvement', 'JobLevel', 'JobRole', 'JobSatisfaction', 'MonthlyIncome', 'MonthlyRate', 'NumCompaniesWorked', 'OverTime', 'PercentSalaryHike', 'PerformanceRating', 'RelationshipSatisfaction', 'StockOptionLevel', 'TotalWorkingYears', 'TrainingTimesLastYear', 'WorkLifeBalance', 'YearsAtCompany', 'YearsInCurrentRole', 'YearsSinceLastPromotion']
