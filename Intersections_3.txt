@@ -1,7 +1,0 @@
-Mutual Information: 0, []
-Anova: 0, []
-Smart Correlated: 0, []
-Mutual Information and Anova: 1, ['JobInvolvement']
-Mutual Information and Smart Correlated: 0, []
-Anova and Smart Correlated: 0, []
-Mutual Information and Anova and Smart Correlated: 30, ['Age', 'Attrition', 'BusinessTravel', 'DailyRate', 'Department', 'DistanceFromHome', 'Education', 'EducationField', 'EmployeeNumber', 'EnvironmentSatisfaction', 'Gender', 'HourlyRate', 'JobLevel', 'JobRole', 'JobSatisfaction', 'MaritalStatus', 'MonthlyIncome', 'MonthlyRate', 'NumCompaniesWorked', 'OverTime', 'PercentSalaryHike', 'PerformanceRating', 'RelationshipSatisfaction', 'StockOptionLevel', 'TotalWorkingYears', 'TrainingTimesLastYear', 'WorkLifeBalance', 'YearsAtCompany', 'YearsInCurrentRole', 'YearsSinceLastPromotion']
